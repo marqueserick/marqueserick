@@ -9,9 +9,11 @@ Um pouco sobre mim...
 - 📫 Me encontre no LinkedIn: <br><br>
 <a href="https://linkedin.com/in/marqueserick"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br><br>
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marqueserick&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqueserick&show_icons=true&theme=radical&layout=compact)
+
 
 <!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqueserick&show_icons=true&theme=radical&layout=compact)
 **marqueserick/marqueserick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
