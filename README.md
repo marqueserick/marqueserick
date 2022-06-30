@@ -2,7 +2,8 @@
 
 Um pouco sobre mim...
 
-- :video_game: Sou técnico em Programação de Jogos Digitais
+- 👨🏼‍💻 Sou Analista Desenvolvedor Jr.
+- :video_game: Formado em Programação de Jogos Digitais
 - :school: Cursando Ciência da Computação
 - 💬 Bora falar sobre Java? :D
 - 🌱 Aprendendo Python e JavaScript
