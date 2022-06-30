@@ -1,13 +1,13 @@
-### Olá 👋
+<h1>Olá 👋</h1>
 
-Um pouco sobre mim...
+<h2>Um pouco sobre mim...</h2>
 
 - 👨🏼‍💻 Sou Analista Desenvolvedor Jr.
 - :video_game: Formado em Programação de Jogos Digitais
 - :school: Cursando Ciência da Computação
 - 💬 Bora falar sobre Java? :D
 - 🌱 Aprendendo Python e JavaScript
-- 📫 Me encontre no LinkedIn:
+- 📫 Entre em contato comigo:
 <div>
   <a href="https://linkedin.com/in/marqueserick" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target = '_blank'"/>
