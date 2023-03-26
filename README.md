@@ -6,7 +6,7 @@
 - :video_game: Formado em Programação de Jogos Digitais
 - :school: Cursando Ciência da Computação
 - 💬 Bora falar sobre Java? :D
-- 🌱 Aprendendo Angular e TypeScript
+- 🌱 Angular e TypeScript
 - 📫 Entre em contato comigo:
 <div>
   <a href="https://linkedin.com/in/marqueserick" target="_blank">
