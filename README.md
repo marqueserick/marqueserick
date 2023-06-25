@@ -2,7 +2,7 @@
 
 <h2>Um pouco sobre mim...</h2>
 
-- 👨🏼‍💻 Sou Analista Desenvolvedor com foco em Back-end
+- 👨🏼‍💻 Sou Analista Desenvolvedor Fullstack com foco em Back-end
 - :video_game: Formado em Programação de Jogos Digitais
 - :school: Cursando Ciência da Computação
 - 💬 Bora falar sobre Java? :D
